@@ -1,0 +1,4 @@
+ap_love_calculator.Droid.MainActivity, ap_love_calculator.Droid;md56a4e7141c6cf02a0cb5896949831f004.MainActivity
+ap_love_calculator.Droid.MainActivity, ap_love_calculator.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56a4e7141c6cf02a0cb5896949831f004.MainActivity
+ap_love_calculator.Droid.MainActivity;md56a4e7141c6cf02a0cb5896949831f004.MainActivity
+ap_love_calculator.droid.MainActivity;md56a4e7141c6cf02a0cb5896949831f004.MainActivity

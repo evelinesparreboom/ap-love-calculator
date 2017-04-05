@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{DE9D9A5D-BF9F-4C21-80B6-56D6C24D0DFF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Resources/values/Strings.xml">
+    <Files>
+      <File FileName="ap_love_calculator/MyClass.cs" Line="28" Column="41" />
+      <File FileName="iOS/ViewController.cs" Line="29" Column="6" />
+      <File FileName="Droid/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="Droid/Resources/values/Strings.xml" Line="5" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ap__love__calculator.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E733FFF7-8C75-47E0-B271-8E903BE70907" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ap__love__calculator.Droid AndroidDesignerPreferredDevice="Nexus 4" />
+  <MultiItemStartupConfigurations />
+</Properties>

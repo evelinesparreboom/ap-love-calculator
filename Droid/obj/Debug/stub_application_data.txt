@@ -1,0 +1,2 @@
+android.app.Application
+com.albelli.ap_love_calculator

@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{A006B601-646C-49B8-9A05-C6B9EC5E328B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="hello_iOS/PhoneTranslator.cs">
+    <Files>
+      <File FileName="hello_iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="hello_iOS/ViewController.cs" Line="25" Column="31" />
+      <File FileName="../../../../Library/Frameworks/Xamarin.iOS.framework/Versions/10.6.0.10/lib/msbuild/iOS/Xamarin.iOS.Common.targets" Line="1" Column="1" />
+      <File FileName="hello_droid/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="hello_droid/Resources/Resource.designer.cs" Line="1" Column="1" />
+      <File FileName="hello_iOS/PhoneTranslator.cs" Line="79" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.hello__iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4334AB8C-7E41-4564-AF2A-7BA71F521661" />
+</Properties>

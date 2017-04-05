@@ -1,0 +1,4 @@
+/Users/esparreboom/Projects/hello_iOS/hello_iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/esparreboom/Projects/hello_iOS/hello_iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/mscorlib.dll
+/Users/esparreboom/Projects/hello_iOS/hello_iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/hello_iOS.exe
+/Users/esparreboom/Projects/hello_iOS/hello_iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.dll

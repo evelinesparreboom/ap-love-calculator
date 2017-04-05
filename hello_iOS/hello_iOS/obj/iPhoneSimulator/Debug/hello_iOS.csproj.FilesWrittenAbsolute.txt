@@ -1,0 +1,9 @@
+/Users/esparreboom/Projects/hello_iOS/hello_iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/esparreboom/Projects/hello_iOS/hello_iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/esparreboom/Projects/hello_iOS/hello_iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/esparreboom/Projects/hello_iOS/hello_iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/esparreboom/Projects/hello_iOS/hello_iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/esparreboom/Projects/hello_iOS/hello_iOS/bin/iPhoneSimulator/Debug/hello_iOS.exe.mdb
+/Users/esparreboom/Projects/hello_iOS/hello_iOS/bin/iPhoneSimulator/Debug/hello_iOS.exe
+/Users/esparreboom/Projects/hello_iOS/hello_iOS/obj/iPhoneSimulator/Debug/hello_iOS.exe
+/Users/esparreboom/Projects/hello_iOS/hello_iOS/obj/iPhoneSimulator/Debug/hello_iOS.exe.mdb

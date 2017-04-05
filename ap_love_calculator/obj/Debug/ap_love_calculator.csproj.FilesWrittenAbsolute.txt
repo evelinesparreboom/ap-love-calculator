@@ -1,0 +1,5 @@
+/Users/esparreboom/Projects/ap_love_calculator/ap_love_calculator/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/esparreboom/Projects/ap_love_calculator/ap_love_calculator/bin/Debug/ap_love_calculator.dll.mdb
+/Users/esparreboom/Projects/ap_love_calculator/ap_love_calculator/bin/Debug/ap_love_calculator.dll
+/Users/esparreboom/Projects/ap_love_calculator/ap_love_calculator/obj/Debug/ap_love_calculator.dll
+/Users/esparreboom/Projects/ap_love_calculator/ap_love_calculator/obj/Debug/ap_love_calculator.dll.mdb
