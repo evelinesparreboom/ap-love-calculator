@@ -4,7 +4,7 @@ using Android.OS;
 
 namespace ap_love_calculator.Droid
 {
-	[Activity(Label = "ap_love_calculator", MainLauncher = true, Icon = "@mipmap/icon")]
+	[Activity(Label = "AP LOVE CALCULATOR", MainLauncher = true, Icon = "@mipmap/ic_launcher")]
 	public class MainActivity : Activity
 	{
 		protected override void OnCreate(Bundle savedInstanceState)
